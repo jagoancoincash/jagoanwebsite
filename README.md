@@ -1,2 +1,1 @@
-# jagoanwebsite
-official website of the jagoancoin
+Main Website https://jagoancoin.org
